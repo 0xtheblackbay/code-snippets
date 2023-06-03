@@ -28,4 +28,6 @@ These are the different topics around which knowledge has been shared, so far
 
 - [kb](/kb/index-kb.md): this folder contains some guidance and useful references that have come around during our mateys learning path.
 - [node-js](/kb/node-js.md): here you can find all the NodeJS related content.
+- [tips-tricks-n-resources](/kb/tip-tricks-n-resources.md): here you can find some tips, tricks and random reources.
+- [howto's](/kb/howtos.md): here you can find howto's and other interesting DIY materials.
 - ***your contribution?***: more than pleased to have your content here!
